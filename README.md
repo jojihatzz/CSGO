@@ -7,11 +7,16 @@ Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensiv
 
 After the Wild West Simulator 2015 update, *video.txt* needs to be put in `...\Steam\userdata\<Steam3 ID>\730\local\cfg`
 
+<br />
+
 ### Launch Options
 
 	+exec autoexec.cfg -novid -freq 240 -refresh 140 -language colormod
 
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
+
+
+<br />
 
 ### Other Settings
 + Windows Sensitivity: 7/11  
@@ -21,6 +26,7 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 + 1280 x 960 stretched no black bars, full-screen scaling  
 + [Text Color Mod](https://gamebanana.com/mods/38438)
 
+<br />
 
 ### Downloads
 
