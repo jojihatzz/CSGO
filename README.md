@@ -1,6 +1,7 @@
 # CSGO
 csgo settings
 
+![alt text](https://images.ctfassets.net/r5o0jpcspr8j/1vMgLJb9Law5wjufzSy3Df/58893d6ed1215253a418d135ceefb3a3/blogbanner_csgo.jpeg?w=1000&q=90&fit=fill)
 
 Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or take what you want from it and add to your autoexec config! 
 
