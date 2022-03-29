@@ -25,3 +25,20 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 
 + [autoexec](https://github.com/jojihatzz/CSGO/blob/main/autoexec.cfg)
 + [Text Color Mod (old ver)](https://gamebanana.com/mods/38438)
+
+
+
+
+## Author
+
+👤 **jojihatzz**
+
+* Github: [@jojihatzz](https://github.com/jojihatzz)
+  <br />
+***
+## 📝 License
+
+Copyright © 2022 [jojihatzz](https://github.com/jojihatzz).<br />
+This project is [MIT](https://github.com/jojihatzz/cs-go-settings/blob/main/LICENSE) licensed.
+
+***
