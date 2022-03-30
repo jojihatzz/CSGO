@@ -23,7 +23,7 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 
 ### Downloads
 
-### [Download All](https://github.com/jojihatzz/cs-go-settings/archive/refs/heads/main.zip)
++ [Download All](https://github.com/jojihatzz/cs-go-settings/archive/refs/heads/main.zip)
 
 + [autoexec](https://github.com/jojihatzz/CSGO/blob/main/autoexec.cfg)
 + [Text Color Mod (old ver)](https://gamebanana.com/mods/38438)
