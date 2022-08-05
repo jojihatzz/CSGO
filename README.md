@@ -14,11 +14,12 @@ After the Wild West Simulator 2015 update, *video.txt* needs to be put in `...\S
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
 ### Other Settings
-+ Windows Sensitivity: 7/11  
++ Windows Sensitivity: 6/11  
 + Enhance Pointer Precision: Yes  
-+ Mouse DPI: 1500 & 800  
++ Mouse DPI: 1200 & 800  
 + Mouse Polling Rate: 1000hz
-+ 1280 x 960 stretched no black bars, full-screen scaling  
++ 1280 x 960 stretched no black bars, full-screen scaling 
+Override high DPI scaling behavior. Scaling performed by: Application 
 + [Text Color Mod](https://gamebanana.com/mods/38438)
 
 ### Downloads
@@ -26,7 +27,8 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 + [Download All](https://github.com/jojihatzz/cs-go-settings/archive/refs/heads/main.zip)
 
 + [autoexec](https://github.com/jojihatzz/CSGO/blob/main/autoexec.cfg)
-+ [Text Color Mod (old ver)](https://gamebanana.com/mods/38438)
++ [Text Color Mod](https://gamebanana.com/mods/38438)
++ [Font Manager Repo](https://github.com/WilliamRagstad/Font-Manager/)
 
 
 
